@@ -9,14 +9,14 @@
 	width: 100%;
 }
 .leftFrame{
-	background-image: url('../images/layout/leftFrame.png');
+	background-image: url('https://github.com/mablefarms/NewPondsSite/blob/main/images/layout/leftFrame.png');
 	background-color: rgba(256, 256, 256, 0.45);
 	background-repeat: repeat-y;
 	background-position: right;
 	grid-area: leF;
 }
 .rightFrame{
-	background-image: url('../images/layout/rightFrame.png');
+	background-image: url('https://github.com/mablefarms/NewPondsSite/blob/main/images/layout/rightFrame.png');
 	background-color: rgba(256, 256, 256, 0.45);
 	background-repeat: repeat-y;
 	background-position: left;
